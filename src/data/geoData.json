@@ -1,114 +1,18 @@
 [
   {
-    "lat": 50.11,
-    "lng": 8.68,
-    "label": "Frankfurt, Germany",
-    "total": 80,
-    "byCategory": {
-      "Content": 27,
-      "CyberSecurity Ent": 11,
-      "Observability & Service Mmgt": 7,
-      "Experience": 10,
-      "Analytics, AI, and LegalTech": 4,
-      "Business Network": 4,
-      "ADM": 10,
-      "CyberSecurity SMB": 4,
-      "Portfolio": 3
-    },
-    "providers": [
-      "GCP",
-      "AWS",
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Core Signature",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Capture",
-      "OpenText™ Content Cloud for Life Sciences",
-      "OpenText™ Core Share",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Process Automation (Core Case Management)",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Core Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Core Adversary Signals (ArcSight cyDNA)",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Core Identity Foundation (CIF)",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ Identity Governance (NetIQ Identity Governance)",
-      "OpenText™ Identity Intelligence (NetIQ Identity Intelligence)",
-      "OpenText™ Identity Manager (NetIQ Identity Manager)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Credential Management Service (NetIQ Credential Management Service)",
-      "OpenText™ Identity Lifecycle Management (NetIQ Identity Lifecycle Management)",
-      "OpenText™ AI Operations Management (Operations Bridge)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Automation Center (Data Center Automation)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Network Operations Management",
-      "OpenText™ BMS",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core Digital Asset Management (Media Management)",
-      "OpenText™ Core Journey (Core Experience Insights)",
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Core eDiscovery (Axcelerate)",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Magellan Integration Center",
-      "OpenText™ Supplier Portal",
-      "OpenText™ SWIFT Service Bureau",
-      "OpenText™ Financial Hub",
-      "OpenText™ Core Secure Access (Identity and Access Management)",
-      "OpenText™ Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Performance Engineering (LoadRunner Cloud)",
-      "OpenText™ Core Project and Portfolio Management (Project & Portfolio Management)",
-      "OpenText™ Core Software Delivery Platform (ValueEdge)",
-      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
-      "OpenText™ Functional Testing Lab for Mobile and Web (UFT Digital Lab/UFT Mobile)",
-      "OpenText™ Project and Portfolio Management",
-      "OpenText™ Strategic Portfolio Management (SPM)",
-      "OpenText™ Dimensions RM",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "OpenText™ Connected",
-      "OpenText™ Output Transformation Server",
-      "Retain"
-    ]
-  },
-  {
     "lat": 38.89,
     "lng": -77.04,
     "label": "N. Virginia, US",
-    "total": 73,
+    "total": 39,
     "byCategory": {
-      "Content": 21,
-      "CyberSecurity Ent": 7,
-      "Observability & Service Mmgt": 6,
-      "Experience": 13,
-      "Analytics, AI, and LegalTech": 6,
-      "Business Network": 6,
-      "ADM": 1,
-      "CyberSecurity SMB": 12,
-      "Portfolio": 1
+      "Content": 11,
+      "Observability & Service Mmgt": 5,
+      "Experience": 8,
+      "CyberSecurity SMB": 6,
+      "CyberSecurity Ent": 3,
+      "Business Network": 1,
+      "Portfolio": 1,
+      "Analytics, AI, and LegalTech": 4
     },
     "providers": [
       "GCP",
@@ -116,1079 +20,624 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for Engineering",
       "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
+      "OpenText™ Core Universal Discovery and CMDB",
+      "OpenText™ Fax2Mail",
+      "OpenText™ Process Automation for Government (Appworks for Government)",
+      "OpenText™ Cloud Ally",
+      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
+      "OpenText™ messageREACH Platform",
+      "OpenText™ Digital Asset Management (Media Management)",
+      "OpenText™ Content Management (Extended ECM) for Engineering",
+      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
+      "OpenText™ Documentum™ Content Management (Documentum)",
+      "OpenText™ Core Service Management (SMAX)",
+      "OpenText™ Server Backup ​ (Carbonite Server Backup)",
+      "OpenText™ Fax",
+      "OpenText™ Core Asset Management (AMX)",
+      "Secur****",
+      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
+      "OpenText™ Web CMS (TeamSite)",
+      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
+      "OpenText™ Behavioral Signals (ArcSight Intelligence)",
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Core Legal Hold",
+      "OpenText™ Core Fax (XM Fax)",
+      "OpenText™ Information Archive (InfoArchive)",
+      "OpenText™ Hosted Exchange",
+      "OpenText™ BMS",
+      "OpenText™ Intelligent Classification (Magellan Text Mining)",
       "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
       "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Core Signature",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Process Automation for Government (Appworks for Government)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Archive Center",
-      "OpenText™ Content Cloud for Life Sciences",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Behavioral Signals (ArcSight Intelligence)",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ Identity Manager (NetIQ Identity Manager)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ BMS",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Core Messaging",
-      "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Fax",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Core eDiscovery (Axcelerate)",
-      "OpenText™ Core Legal Hold",
       "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Magellan Integration Center",
-      "OpenText™ B2B Connect",
-      "OpenText™ Providerlink",
+      "OpenText™ Communications (Exstream)"
+    ]
+  },
+  {
+    "lat": 50.11,
+    "lng": 8.68,
+    "label": "Frankfurt, Germany",
+    "total": 29,
+    "byCategory": {
+      "Observability & Service Mmgt": 3,
+      "Content": 12,
+      "CyberSecurity Ent": 4,
+      "Experience": 2,
+      "ADM": 3,
+      "Analytics, AI, and LegalTech": 1,
+      "Business Network": 1,
+      "CyberSecurity SMB": 3
+    },
+    "providers": [
+      "AWS",
+      "GCP",
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Core Universal Discovery and CMDB",
+      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Password Management (NetIQ Password Management)",
+      "OpenText™ Core Signature",
+      "OpenText™ Content Cloud for Life Sciences",
+      "OpenText™ Core Service Management (SMAX)",
+      "OpenText™ Fax2Mail",
+      "OpenText™ Dimensions RM",
+      "OpenText™ Intelligence (Magellan BI & Reporting)",
+      "OpenText™ Strategic Portfolio Management (SPM)",
+      "OpenText™ Core Adversary Signals (ArcSight cyDNA)",
+      "OpenText™ Core Cloud Management (HCMX)",
+      "OpenText™ Content Management for SAP® SuccessFactors®",
       "OpenText™ Supplier Portal",
-      "OpenText™ Core Secure Access (Identity and Access Management)",
-      "OpenText™ ETPrint",
-      "OpenText™ messageREACH Platform",
-      "OpenText™ Project and Portfolio Management",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Hightail File Sharing",
-      "OpenText™ Hosted Exchange",
-      "OpenText™ Safe Endpoint",
-      "OpenText™ Safe Server Backup (Carbonite Safe Server Backup)",
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)",
+      "OpenText™ Functional Testing Lab for Mobile and Web (UFT Digital Lab/UFT Mobile)",
+      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
       "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "Secure Messaging Gateway (SMG)"
+      "OpenText™ Core Advanced Authentication",
+      "OpenText™ Documentum™ Content Management (Documentum)",
+      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
+      "OpenText™ Content Management (Extended ECM) for Engineering",
+      "OpenText™ Identity Governance (NetIQ Identity Governance)",
+      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
+      "OpenText™ Core Archive for SAP® Solutions",
+      "OpenText™ Cloud Ally",
+      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
+      "OpenText™ Web CMS (TeamSite)",
+      "OpenText™ Core Process Automation (Core Case Management)"
     ]
   },
   {
     "lat": -33.87,
     "lng": 151.21,
     "label": "Sydney, Australia",
-    "total": 61,
+    "total": 23,
     "byCategory": {
-      "Content": 25,
-      "CyberSecurity Ent": 11,
-      "Observability & Service Mmgt": 4,
-      "Experience": 7,
-      "Analytics, AI, and LegalTech": 1,
-      "ADM": 7,
-      "CyberSecurity SMB": 5,
-      "Portfolio": 1
+      "Experience": 2,
+      "Content": 13,
+      "ADM": 3,
+      "CyberSecurity Ent": 4,
+      "Analytics, AI, and LegalTech": 1
     },
     "providers": [
       "GCP",
       "AWS",
-      "OpenText",
-      "Azure"
+      "Azure",
+      "OpenText"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Core Share",
-      "OpenText™ Core Signature",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Capture",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core Process Automation (Core Case Management)",
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
-      "OpenText™ Core Identity Foundation (CIF)",
-      "OpenText™ Identity Governance (NetIQ Identity Governance)",
-      "OpenText™ Identity Intelligence (NetIQ Identity Intelligence)",
-      "OpenText™ Identity Manager (NetIQ Identity Manager)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Credential Management Service (NetIQ Credential Management Service)",
-      "OpenText™ Identity Lifecycle Management (NetIQ Identity Lifecycle Management)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ BMS",
       "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core Digital Asset Management (Media Management)",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Core Journey (Core Experience Insights)",
+      "OpenText™ Information Archive (InfoArchive)",
+      "OpenText™ Dimensions RM",
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Password Management (NetIQ Password Management)",
+      "OpenText™ Core Identity Foundation (CIF)",
+      "OpenText™ Core Process Automation (Core Case Management)",
+      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
+      "OpenText™ Core Advanced Authentication",
+      "OpenText™ Content Management for SAP® SuccessFactors®",
+      "OpenText™ Identity Lifecycle Management (NetIQ Identity Lifecycle Management)",
+      "OpenText™ Documentum™ Content Management (Documentum)",
+      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
+      "OpenText™ Core Share",
       "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Project and Portfolio Management (Project & Portfolio Management)",
-      "OpenText™ Core Software Delivery Platform (ValueEdge)",
       "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
       "OpenText™ Project and Portfolio Management",
-      "OpenText™ Dimensions RM",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Hightail File Sharing",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "Content Manager"
-    ]
-  },
-  {
-    "lat": 45.5,
-    "lng": -73.56,
-    "label": "Montréal, Canada",
-    "total": 44,
-    "byCategory": {
-      "Content": 17,
-      "CyberSecurity Ent": 1,
-      "Observability & Service Mmgt": 6,
-      "Experience": 8,
-      "Analytics, AI, and LegalTech": 4,
-      "ADM": 3,
-      "CyberSecurity SMB": 3,
-      "Portfolio": 2
-    },
-    "providers": [
-      "GCP",
-      "AWS",
-      "OpenText",
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Archive Center",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Core Share",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Capture",
-      "OpenText™ Core Process Automation (Core Case Management)",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ AI Operations Management (Operations Bridge)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Network Operations Management",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core Digital Asset Management (Media Management)",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Core Journey (Core Experience Insights)",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Core eDiscovery (Axcelerate)",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Magellan Integration Center",
-      "OpenText™ Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
-      "OpenText™ Backup for Microsoft 365 (Carbonite Backup for Microsoft 365)",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Connected",
-      "Retain"
+      "OpenText™ BMS",
+      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)"
     ]
   },
   {
     "lat": 52.38,
     "lng": 4.9,
-    "label": "Netherlands",
-    "total": 42,
+    "label": "Amsterdam, Netherlands",
+    "total": 20,
     "byCategory": {
-      "Content": 31,
-      "CyberSecurity Ent": 1,
-      "Experience": 7,
-      "Analytics, AI, and LegalTech": 1,
-      "CyberSecurity SMB": 2
+      "Content": 15,
+      "Experience": 4,
+      "CyberSecurity SMB": 1
     },
     "providers": [
-      "Azure",
       "OpenText",
-      "GCP"
+      "Azure"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core for Capital Projects",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Process Automation (AppWorks)",
-      "OpenText™ Core Capture",
-      "OpenText™ Core Capture Services",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core Process Automation (Core Case Management)",
       "OpenText™ Archive Center",
-      "OpenText™ Core Software Composition Analysis (Debricked)",
-      "OpenText™ BMS",
+      "OpenText™ Content Management (Extended ECM) for Engineering",
+      "OpenText™ Process Automation (AppWorks)",
       "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core Messaging",
-      "OpenText™ Digital Asset Management (Media Management)",
+      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
+      "OpenText™ Core Endpoint Backup (Carbonite Endpoint Protection)",
+      "OpenText™ Core Content Management (Core Content)",
+      "OpenText™ BMS",
+      "OpenText™ Content Management for SAP® SuccessFactors®",
+      "OpenText™ Content Management (Extended ECM)",
       "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Core Endpoint Backup (Carbonite Endpoint Protection)"
+      "OpenText™ Core Messaging",
+      "OpenText™ Core for Federated Compliance",
+      "OpenText™ Core Capture for SAP® Solutions",
+      "OpenText™ Core for Capital Projects",
+      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
+      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
+      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
+      "OpenText™ Information Archive (InfoArchive)"
     ]
   },
   {
     "lat": 45.52,
     "lng": -122.67,
     "label": "Oregon, US",
-    "total": 41,
+    "total": 19,
     "byCategory": {
-      "Content": 4,
-      "CyberSecurity Ent": 2,
-      "Observability & Service Mmgt": 10,
-      "Experience": 7,
-      "Analytics, AI, and LegalTech": 2,
-      "ADM": 10,
-      "CyberSecurity SMB": 5,
-      "Portfolio": 1
+      "Content": 2,
+      "Experience": 4,
+      "Observability & Service Mmgt": 5,
+      "CyberSecurity SMB": 3,
+      "ADM": 4,
+      "CyberSecurity Ent": 1
     },
     "providers": [
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Business Communication Archive (Information Archive)",
       "OpenText™ Core Signature",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ AI Operations Management (Operations Bridge)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Automation Center (Data Center Automation)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Network Operations Management",
       "OpenText™ Communications (Exstream)",
-      "OpenText™ Contact Center (Qfiniti)",
-      "OpenText™ Contact Center Analytics (Explore)",
       "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Fax",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Core Insight (Insight)",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Performance Engineering (LoadRunner Cloud)",
-      "OpenText™ Core Project and Portfolio Management (Project & Portfolio Management)",
-      "OpenText™ Core Software Delivery Platform (ValueEdge)",
-      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
-      "OpenText™ Functional Testing Lab for Mobile and Web (UFT Digital Lab/UFT Mobile)",
-      "OpenText™ Project and Portfolio Management",
-      "OpenText™ Strategic Portfolio Management (SPM)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Hightail File Sharing",
+      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
+      "OpenText™ AI Operations Management (Operations Bridge)",
+      "OpenText™ Core Service Management (SMAX)",
       "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "OpenText™ Connected"
+      "OpenText™ Core Automation Center (Data Center Automation)",
+      "OpenText™ Fax",
+      "OpenText™ Project and Portfolio Management",
+      "OpenText™ Core Asset Management (AMX)",
+      "OpenText™ Network Operations Management",
+      "OpenText™ Core Project and Portfolio Management (Project & Portfolio Management)",
+      "OpenText™ Functional Testing Lab for Mobile and Web (UFT Digital Lab/UFT Mobile)",
+      "OpenText™ Core Application Quality Management (ALM Quality Center)",
+      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
+      "OpenText™ Contact Center Analytics (Explore)",
+      "OpenText™ Hightail Creative Collaboration",
+      "OpenText™ Core Application Security (Fortify on Demand)"
     ]
   },
   {
     "lat": 33.79,
     "lng": -84.66,
     "label": "Lithia Springs, GA, US",
-    "total": 38,
+    "total": 17,
     "byCategory": {
-      "Business Network": 37,
+      "Business Network": 16,
       "Portfolio": 1
     },
     "providers": [
       "OpenText"
     ],
     "services": [
-      "OpenText™ Alloy Platform",
-      "OpenText™ Inovisworks",
-      "OpenText™ Enterprise",
-      "OpenText™ Nubridges",
-      "OpenText™ Softshare",
-      "OpenText™ Athena",
-      "OpenText™ SOI, VAS",
-      "OpenText™ PCI Gateway",
-      "OpenText™ Live Catalogue",
-      "OpenText™ Live Documents",
-      "OpenText™ API Gateway",
-      "OpenText™ Application Integrator",
-      "OpenText™ BizTrans",
-      "OpenText™ Contivo",
-      "OpenText™ Custom Solutions Platform",
-      "OpenText™ Data Integrator (BizManager)",
-      "OpenText™ Document Cycle Tracking System (DCTS)",
-      "OpenText™ TG Analytics",
-      "OpenText™ Trading Grid e-Invoicing (Live Invoice with Compliance)",
-      "OpenText™ Trading Grid Intelligence (Live Intelligence)",
-      "OpenText™ Trading Grid Messaging Service (TGMS)",
-      "OpenText™ Trading Grid Messaging Service (TGMS) Dell Dedicated",
-      "OpenText™ Trading Grid Messaging Service (TGMS) Cardinal Dedicated",
-      "OpenText™ Trading Grid Translation Service (TGTS) Dell Dedicated",
-      "OpenText™ Trading Grid Translation Service (TGTS) Cardinal Dedicated",
-      "OpenText™ Trading Grid Translation Service (TGTS)",
-      "OpenText™ Trading Grid Online (TGO)",
       "OpenText™ Trading Grid Supplier Hub (Live Orders)",
-      "OpenText™ Trusted Link Enterprise (TLE)",
-      "OpenText™ SWIFT Service Bureau",
-      "OpenText™ Financial Hub",
+      "OpenText™ Document Cycle Tracking System (DCTS)",
+      "OpenText™ Output Transformation Server",
+      "OpenText™ Enterprise",
+      "OpenText™ TG Analytics",
+      "OpenText™ Application Integrator",
+      "OpenText™ Trading Grid Translation Service (TGTS) Dell Dedicated",
+      "OpenText™ Trading Grid Messaging Service (TGMS) Cardinal Dedicated",
+      "OpenText™ API Gateway",
+      "OpenText™ Trading Grid Translation Service (TGTS)",
       "OpenText™ Data Exchange Platform (DXP)",
-      "OpenText™ EMR Integration",
-      "OpenText™ Orchestration and Orchestrated Services",
+      "OpenText™ Athena",
+      "OpenText™ Softshare",
       "OpenText™ Trading Grid Insights (Lens)",
-      "OpenText™ Managed File Transfer",
-      "OpenText™ ICC Net Platform",
-      "OpenText™ Output Transformation Server"
+      "OpenText™ Trading Grid e-Invoicing (Live Invoice with Compliance)",
+      "OpenText™ PCI Gateway",
+      "OpenText™ Live Documents"
     ]
   },
   {
-    "lat": 51.51,
-    "lng": -0.13,
-    "label": "London, UK",
-    "total": 29,
+    "lat": 45.5,
+    "lng": -73.56,
+    "label": "Montréal, Canada",
+    "total": 16,
     "byCategory": {
-      "Content": 8,
-      "CyberSecurity Ent": 1,
-      "Observability & Service Mmgt": 6,
-      "Experience": 5,
+      "Content": 7,
+      "Portfolio": 1,
       "Analytics, AI, and LegalTech": 3,
-      "ADM": 2,
-      "CyberSecurity SMB": 2,
-      "Portfolio": 2
+      "CyberSecurity SMB": 1,
+      "Experience": 3,
+      "ADM": 1
     },
     "providers": [
       "GCP",
-      "AWS",
-      "Azure"
+      "AWS"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
+      "OpenText™ Core Content Management (Core Content)",
+      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
+      "OpenText™ Core Capture",
+      "Retai****",
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Intelligence (Magellan BI & Reporting)",
       "OpenText™ Content Management for SAP® SuccessFactors®",
       "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ AI Operations Management (Operations Bridge)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Network Operations Management",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Exstream Cloud Native",
-      "OpenText™ Web CMS (TeamSite)",
+      "OpenText™ Cloud Ally",
+      "OpenText™ Core Communications (Exstream)",
       "OpenText™ Core eDiscovery (Axcelerate)",
       "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Perceptiv",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Connected",
-      "Retain"
-    ]
-  },
-  {
-    "lat": 33.76,
-    "lng": -84.4,
-    "label": "Lithia Springs, US",
-    "total": 26,
-    "byCategory": {
-      "Content": 19,
-      "Experience": 5,
-      "Analytics, AI, and LegalTech": 2
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Core for Capital Projects",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Process Automation (AppWorks)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Capture",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core Capture Services",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Core Process Automation (Core Case Management)",
-      "OpenText™ BMS",
+      "OpenText™ Application Quality Management (ALM Quality Center)",
       "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Fax",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Magellan Integration Center"
-    ]
-  },
-  {
-    "lat": 35.69,
-    "lng": 139.69,
-    "label": "Tokyo, Japan",
-    "total": 23,
-    "byCategory": {
-      "Content": 5,
-      "Observability & Service Mmgt": 4,
-      "Experience": 5,
-      "Business Network": 6,
-      "CyberSecurity SMB": 3
-    },
-    "providers": [
-      "GCP",
-      "OpenText",
-      "AWS"
-    ],
-    "services": [
       "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ BMS",
-      "OpenText™ Core Messaging",
-      "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Enterprise",
-      "OpenText™ MS Enterprise IEEX Services SMG",
-      "OpenText™ Managed File Transfer",
-      "OpenText™ Application Integrator",
-      "OpenText™ Document Cycle Tracking System (DCTS)",
-      "OpenText™ Trading Grid Translation Service (TGTS)",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)"
-    ]
-  },
-  {
-    "lat": 39.96,
-    "lng": -82.99,
-    "label": "Ohio, US",
-    "total": 22,
-    "byCategory": {
-      "Content": 3,
-      "CyberSecurity Ent": 9,
-      "Experience": 5,
-      "CyberSecurity SMB": 3,
-      "Portfolio": 2
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Signature",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Core Adversary Intelligence (ArcSight ThreatHub)",
-      "OpenText™ Core Adversary Signals (ArcSight cyDNA)",
-      "OpenText™ Core Identity Foundation (CIF)",
-      "OpenText™ Identity Governance (NetIQ Identity Governance)",
-      "OpenText™ Identity Intelligence (NetIQ Identity Intelligence)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Credential Management Service (NetIQ Credential Management Service)",
-      "OpenText™ Identity Lifecycle Management (NetIQ Identity Lifecycle Management)",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Fax",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Hightail File Sharing",
-      "OpenText™ Core Business Communication Archive",
-      "Retain",
-      "GroupWise"
-    ]
-  },
-  {
-    "lat": 52.31,
-    "lng": 4.87,
-    "label": "Amstelveen, Netherlands",
-    "total": 22,
-    "byCategory": {
-      "Business Network": 21,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Enterprise",
-      "OpenText™ Application Integrator",
-      "OpenText™ Document Cycle Tracking System (DCTS)",
-      "OpenText™ Live Documents",
-      "OpenText™ API Gateway",
-      "OpenText™ BizTrans",
-      "OpenText™ Contivo",
-      "OpenText™ Custom Solutions Platform",
-      "OpenText™ Trading Grid e-Invoicing (Live Invoice with Compliance)",
-      "OpenText™ Trading Grid Messaging Service (TGMS)",
-      "OpenText™ Trading Grid Messaging Service (TGMS) Nestle Dedicated",
-      "OpenText™ Trading Grid Translation Service (TGTS) Nestle Dedicated",
-      "OpenText™ Trading Grid Translation Service (TGTS)",
-      "OpenText™ Trading Grid Online (TGO)",
-      "OpenText™ Trading Grid Supplier Hub (Live Orders)",
-      "OpenText™ Trusted Link Enterprise (TLE)",
-      "OpenText™ Data Integrator (BizManager)",
-      "OpenText™ Orchestration and Orchestrated Services",
-      "OpenText™ Trading Grid Insights (Lens)",
-      "OpenText™ Managed File Transfer",
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)"
+      "OpenText™ Core Fax (XM Fax)"
     ]
   },
   {
     "lat": 41.6,
     "lng": -93.61,
     "label": "Iowa, US",
-    "total": 18,
+    "total": 12,
     "byCategory": {
-      "Content": 11,
-      "Experience": 4,
-      "Analytics, AI, and LegalTech": 1,
-      "CyberSecurity SMB": 2
+      "Content": 7,
+      "CyberSecurity SMB": 1,
+      "Experience": 3,
+      "Analytics, AI, and LegalTech": 1
     },
     "providers": [
-      "GCP",
-      "Azure"
+      "Azure",
+      "GCP"
     ],
     "services": [
-      "OpenText™ Core Capture",
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)",
       "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Content Management (Core Content)",
       "OpenText™ Core Process Automation (Core Case Management)",
       "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Communications (Exstream)",
+      "OpenText™ Core Capture",
       "OpenText™ Core Digital Asset Management (Media Management)",
-      "OpenText™ Core Journey (Core Experience Insights)",
+      "OpenText™ Core Communications (Exstream)",
+      "OpenText™ Core Capture for SAP® Solutions",
       "OpenText™ Core Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
+      "OpenText™ Core Journey (Core Experience Insights)",
+      "OpenText™ Information Archive (InfoArchive)"
     ]
   },
   {
-    "lat": -23.55,
-    "lng": -46.63,
-    "label": "São Paulo, Brazil",
-    "total": 16,
+    "lat": 51.51,
+    "lng": -0.13,
+    "label": "London, UK",
+    "total": 11,
     "byCategory": {
+      "Experience": 3,
+      "Observability & Service Mmgt": 1,
+      "ADM": 2,
       "Content": 3,
-      "CyberSecurity Ent": 8,
-      "Observability & Service Mmgt": 4,
-      "CyberSecurity SMB": 1
+      "Analytics, AI, and LegalTech": 1,
+      "CyberSecurity Ent": 1
     },
     "providers": [
       "GCP",
-      "AWS"
+      "AWS",
+      "Azure"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Core Identity Foundation (CIF)",
-      "OpenText™ Identity Governance (NetIQ Identity Governance)",
-      "OpenText™ Identity Intelligence (NetIQ Identity Intelligence)",
-      "OpenText™ Identity Manager (NetIQ Identity Manager)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Credential Management Service (NetIQ Credential Management Service)",
-      "OpenText™ Identity Lifecycle Management (NetIQ Identity Lifecycle Management)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
+      "OpenText™ Exstream Cloud Native",
       "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)"
+      "OpenText™ Core Application Quality Management (ALM Quality Center)",
+      "OpenText™ Information Archive (InfoArchive)",
+      "OpenText™ Perceptiv",
+      "OpenText™ Communications (Exstream)",
+      "OpenText™ Documentum™ Content Management (Documentum)",
+      "OpenText™ Core Application Security (Fortify on Demand)",
+      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
+      "OpenText™ Content Management for SAP® SuccessFactors®"
     ]
   },
   {
     "lat": 1.35,
     "lng": 103.82,
     "label": "Singapore",
-    "total": 14,
+    "total": 10,
     "byCategory": {
-      "Content": 5,
       "CyberSecurity Ent": 1,
-      "Observability & Service Mmgt": 4,
+      "Observability & Service Mmgt": 3,
       "Experience": 3,
+      "Content": 2,
       "CyberSecurity SMB": 1
     },
     "providers": [
-      "Azure",
-      "GCP",
       "AWS",
-      "OpenText"
+      "OpenText",
+      "GCP",
+      "Azure"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
       "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
       "OpenText™ Core Universal Discovery and CMDB",
       "OpenText™ BMS",
+      "OpenText™ Core Archive for SAP® Solutions",
+      "OpenText™ Core Cloud Management (HCMX)",
+      "OpenText™ Core Service Management (SMAX)",
       "OpenText™ Communications (Exstream)",
+      "OpenText™ Information Archive (InfoArchive)",
       "OpenText™ Fax2Mail",
       "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)"
     ]
   },
   {
-    "lat": 25.2,
-    "lng": 55.27,
-    "label": "Dubai, UAE",
-    "total": 12,
+    "lat": 35.69,
+    "lng": 139.69,
+    "label": "Tokyo, Japan",
+    "total": 9,
     "byCategory": {
-      "Content": 7,
-      "Observability & Service Mmgt": 4,
-      "Analytics, AI, and LegalTech": 1
-    },
-    "providers": [
-      "Azure",
-      "GCP",
-      "OpenText",
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Process Automation (AppWorks)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Intelligence (Magellan BI & Reporting)"
-    ]
-  },
-  {
-    "lat": 53.33,
-    "lng": -6.25,
-    "label": "Ireland",
-    "total": 11,
-    "byCategory": {
-      "CyberSecurity Ent": 2,
       "Experience": 3,
-      "Analytics, AI, and LegalTech": 1,
-      "CyberSecurity SMB": 5
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Core eDiscovery (Axcelerate)",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Hightail File Sharing",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)"
-    ]
-  },
-  {
-    "lat": -33.92,
-    "lng": 18.42,
-    "label": "Cape Town, South Africa",
-    "total": 8,
-    "byCategory": {
-      "Content": 1,
-      "Observability & Service Mmgt": 6,
+      "Content": 2,
+      "Business Network": 1,
+      "Observability & Service Mmgt": 2,
       "CyberSecurity SMB": 1
     },
     "providers": [
-      "AWS"
+      "OpenText",
+      "AWS",
+      "GCP"
     ],
     "services": [
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ AI Operations Management (Operations Bridge)",
+      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
+      "OpenText™ Core Web Optimization (Optimost)",
+      "OpenText™ Fax2Mail",
+      "OpenText™ Content Management for SAP® SuccessFactors®",
+      "OpenText™ Document Cycle Tracking System (DCTS)",
       "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Cloud Management (HCMX)",
       "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Network Operations Management",
       "OpenText™ Cloud Ally"
     ]
   },
   {
-    "lat": 34.05,
-    "lng": -118.24,
-    "label": "Los Angeles, US",
-    "total": 7,
+    "lat": 33.76,
+    "lng": -84.4,
+    "label": "Lithia Springs, US",
+    "total": 8,
     "byCategory": {
-      "Content": 6,
-      "CyberSecurity SMB": 1
+      "Experience": 2,
+      "Content": 6
     },
     "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Digital Asset Management (Media Management)",
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Content Management (Extended ECM) for Engineering",
+      "OpenText™ Core Archive for SAP® Solutions",
+      "OpenText™ Core Capture for Salesforce",
+      "OpenText™ BMS",
+      "OpenText™ Information Archive (InfoArchive)",
+      "OpenText™ Core for Capital Projects"
+    ]
+  },
+  {
+    "lat": 52.31,
+    "lng": 4.87,
+    "label": "Amstelveen, Netherlands",
+    "total": 8,
+    "byCategory": {
+      "Business Network": 8
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Trusted Link Enterprise (TLE)",
+      "OpenText™ Application Integrator",
+      "OpenText™ Orchestration and Orchestrated Services",
+      "OpenText™ Document Cycle Tracking System (DCTS)",
+      "OpenText™ Trading Grid Online (TGO)",
+      "OpenText™ Trading Grid Messaging Service (TGMS)",
+      "OpenText™ Trading Grid e-Invoicing (Live Invoice with Compliance)"
+    ]
+  },
+  {
+    "lat": 39.96,
+    "lng": -82.99,
+    "label": "Ohio, US",
+    "total": 7,
+    "byCategory": {
+      "CyberSecurity Ent": 3,
+      "Portfolio": 1,
+      "Content": 2,
+      "Experience": 1
+    },
+    "providers": [
+      "AWS"
+    ],
+    "services": [
+      "OpenText™ Core Adversary Signals (ArcSight cyDNA)",
+      "OpenText™ Core Adversary Intelligence (ArcSight ThreatHub)",
+      "Retai****",
+      "OpenText™ Identity Governance (NetIQ Identity Governance)",
+      "OpenText™ Core Signature",
+      "OpenText™ Information Archive (InfoArchive)",
+      "OpenText™ Web CMS (TeamSite)"
+    ]
+  },
+  {
+    "lat": -23.55,
+    "lng": -46.63,
+    "label": "São Paulo, Brazil",
+    "total": 6,
+    "byCategory": {
+      "CyberSecurity Ent": 4,
+      "CyberSecurity SMB": 1,
+      "Observability & Service Mmgt": 1
+    },
+    "providers": [
+      "AWS"
+    ],
+    "services": [
+      "OpenText™ Core Identity Foundation (CIF)",
+      "OpenText™ Core Advanced Authentication",
+      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
+      "OpenText™ Password Management (NetIQ Password Management)",
+      "OpenText™ Credential Management Service (NetIQ Credential Management Service)",
+      "OpenText™ Core Asset Management (AMX)"
+    ]
+  },
+  {
+    "lat": 25.2,
+    "lng": 55.27,
+    "label": "UAE",
+    "total": 5,
+    "byCategory": {
+      "Observability & Service Mmgt": 3,
+      "Content": 2
+    },
+    "providers": [
+      "AWS",
+      "OpenText",
       "GCP"
     ],
     "services": [
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Archive Center",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
-    ]
-  },
-  {
-    "lat": 19.08,
-    "lng": 72.88,
-    "label": "Mumbai, India",
-    "total": 7,
-    "byCategory": {
-      "Content": 3,
-      "CyberSecurity Ent": 1,
-      "CyberSecurity SMB": 3
-    },
-    "providers": [
-      "GCP",
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)"
-    ]
-  },
-  {
-    "lat": 43.7,
-    "lng": -79.42,
-    "label": "Toronto, Canada",
-    "total": 7,
-    "byCategory": {
-      "Content": 3,
-      "Experience": 2,
-      "Business Network": 1,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "GCP",
-      "Azure",
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Managed File Transfer",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
-    ]
-  },
-  {
-    "lat": 37.36,
-    "lng": -79.38,
-    "label": "Virginia, US",
-    "total": 7,
-    "byCategory": {
-      "Content": 5,
-      "Experience": 1,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
-    ]
-  },
-  {
-    "lat": 51.05,
-    "lng": 13.74,
-    "label": "Dresden, Germany (Sovereign)",
-    "total": 7,
-    "byCategory": {
-      "Content": 2,
-      "CyberSecurity Ent": 1,
-      "Observability & Service Mmgt": 4
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Automation Center (Data Center Automation)",
       "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Universal Discovery and CMDB"
-    ]
-  },
-  {
-    "lat": 32.78,
-    "lng": -96.8,
-    "label": "Dallas, US",
-    "total": 6,
-    "byCategory": {
-      "Content": 1,
-      "CyberSecurity SMB": 5
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Business Communication Archive (Information Archive)",
-      "OpenText™ Core Email Encryption​ (Webroot™ Email Encryption powered by Zix™​)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)",
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)",
-      "OpenText™ Secure Messaging Portal",
-      "OpenText™ Core Business Communication Archive"
-    ]
-  },
-  {
-    "lat": 51.32,
-    "lng": -0.56,
-    "label": "Woking, UK",
-    "total": 6,
-    "byCategory": {
-      "Content": 2,
-      "Experience": 3,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
+      "OpenText™ Core Capture for Salesforce",
+      "OpenText™ Core Universal Discovery and CMDB",
       "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ BMS",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Fax",
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)"
+      "OpenText™ Core Asset Management (AMX)"
     ]
   },
   {
     "lat": 37.33,
     "lng": -121.9,
     "label": "N. California, US",
-    "total": 6,
+    "total": 4,
     "byCategory": {
-      "Content": 1,
-      "Experience": 2,
-      "CyberSecurity SMB": 3
+      "CyberSecurity SMB": 3,
+      "Experience": 1
     },
     "providers": [
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Signature",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Fax",
       "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
       "OpenText™ Hightail Creative Collaboration",
+      "OpenText™ Communications (Exstream)",
       "OpenText™ Hightail File Sharing"
     ]
   },
   {
-    "lat": 48.14,
-    "lng": 11.58,
-    "label": "Munich, Germany",
-    "total": 5,
+    "lat": -33.92,
+    "lng": 18.42,
+    "label": "Cape Town, South Africa",
+    "total": 4,
     "byCategory": {
-      "Content": 5
+      "Observability & Service Mmgt": 3,
+      "Content": 1
     },
     "providers": [
-      "OpenText"
+      "AWS"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Core Capture Services"
+      "OpenText™ Core Cloud Management (HCMX)",
+      "OpenText™ Core Service Management (SMAX)",
+      "OpenText™ Network Operations Management",
+      "OpenText™ Information Archive (InfoArchive)"
+    ]
+  },
+  {
+    "lat": 51.05,
+    "lng": 13.74,
+    "label": "Dresden, Germany (Sovereign)",
+    "total": 3,
+    "byCategory": {
+      "Observability & Service Mmgt": 2,
+      "Content": 1
+    },
+    "providers": [
+      "AWS"
+    ],
+    "services": [
+      "OpenText™ Core Automation Center (Data Center Automation)",
+      "OpenText™ Core Service Management (SMAX)",
+      "OpenText™ Core Archive for SAP® Solutions"
+    ]
+  },
+  {
+    "lat": 53.33,
+    "lng": -6.25,
+    "label": "Ireland",
+    "total": 3,
+    "byCategory": {
+      "CyberSecurity Ent": 1,
+      "Experience": 2
+    },
+    "providers": [
+      "AWS"
+    ],
+    "services": [
+      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
+      "OpenText™ Core Web Optimization (Optimost)",
+      "OpenText™ Core Fax (XM Fax)"
+    ]
+  },
+  {
+    "lat": 19.08,
+    "lng": 72.88,
+    "label": "Mumbai, India",
+    "total": 3,
+    "byCategory": {
+      "CyberSecurity SMB": 1,
+      "CyberSecurity Ent": 1,
+      "Content": 1
+    },
+    "providers": [
+      "AWS",
+      "GCP"
+    ],
+    "services": [
+      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
+      "OpenText™ Fortify Hosted",
+      "OpenText™ Content Management for SAP® SuccessFactors®"
     ]
   },
   {
     "lat": 25.29,
     "lng": 51.53,
     "label": "Qatar",
-    "total": 5,
+    "total": 3,
     "byCategory": {
-      "Content": 3,
-      "CyberSecurity Ent": 1,
+      "Content": 2,
       "Experience": 1
     },
     "providers": [
       "GCP"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
       "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ Digital Asset Management (Media Management)"
-    ]
-  },
-  {
-    "lat": 36.17,
-    "lng": -115.14,
-    "label": "Las Vegas, US",
-    "total": 5,
-    "byCategory": {
-      "Content": 3,
-      "Experience": 2
-    },
-    "providers": [
-      "GCP",
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ BMS",
-      "OpenText™ Fax2Mail"
-    ]
-  },
-  {
-    "lat": 48.86,
-    "lng": 2.35,
-    "label": "Paris, France",
-    "total": 4,
-    "byCategory": {
-      "Content": 2,
-      "Experience": 1,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "GCP",
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Cloud Ally"
-    ]
-  },
-  {
-    "lat": 33.1,
-    "lng": -96.67,
-    "label": "Allen, TX, US",
-    "total": 4,
-    "byCategory": {
-      "Content": 2,
-      "Experience": 1,
-      "Business Network": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Capture Services",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ BMS",
-      "OpenText™ ICC Net Platform"
-    ]
-  },
-  {
-    "lat": 33.2,
-    "lng": -79.93,
-    "label": "S. Carolina, US",
-    "total": 4,
-    "byCategory": {
-      "Content": 3,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "GCP"
-    ],
-    "services": [
-      "OpenText™ Core Share",
-      "OpenText™ Core Capture",
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
+      "OpenText™ Digital Asset Management (Media Management)",
+      "OpenText™ Content Management for SAP® SuccessFactors®"
     ]
   },
   {
     "lat": 51.51,
     "lng": -0.59,
     "label": "Slough, UK",
-    "total": 4,
+    "total": 3,
     "byCategory": {
       "Experience": 2,
-      "Business Network": 2
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ BMS",
-      "OpenText™ Fax2Mail",
-      "OpenText™ GMS Platform",
-      "OpenText™ IBP v2 Platform"
-    ]
-  },
-  {
-    "lat": 40.26,
-    "lng": -74.09,
-    "label": "Tinton Falls, NJ, US",
-    "total": 4,
-    "byCategory": {
-      "Experience": 3,
       "Business Network": 1
     },
     "providers": [
@@ -1196,215 +645,96 @@
     ],
     "services": [
       "OpenText™ BMS",
-      "OpenText™ Core Messaging",
       "OpenText™ Fax2Mail",
-      "OpenText™ GMS Platform"
+      "OpenText™ IBP v2 Platform"
+    ]
+  },
+  {
+    "lat": 51.32,
+    "lng": -0.56,
+    "label": "Woking, UK",
+    "total": 3,
+    "byCategory": {
+      "CyberSecurity SMB": 1,
+      "Experience": 1,
+      "Content": 1
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)",
+      "OpenText™ BMS",
+      "OpenText™ Content Management (Extended ECM)"
+    ]
+  },
+  {
+    "lat": 43.7,
+    "lng": -79.42,
+    "label": "Toronto, Canada",
+    "total": 2,
+    "byCategory": {
+      "Content": 1,
+      "Business Network": 1
+    },
+    "providers": [
+      "GCP",
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Content Management for SAP® SuccessFactors®",
+      "OpenText™ Managed File Transfer"
+    ]
+  },
+  {
+    "lat": 32.78,
+    "lng": -96.8,
+    "label": "Dallas, US",
+    "total": 2,
+    "byCategory": {
+      "CyberSecurity SMB": 1,
+      "Content": 1
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Core Business Communication Archive",
+      "OpenText™ Core Business Communication Archive (Information Archive)"
+    ]
+  },
+  {
+    "lat": 36.17,
+    "lng": -115.14,
+    "label": "Las Vegas, US",
+    "total": 2,
+    "byCategory": {
+      "Experience": 1,
+      "Content": 1
+    },
+    "providers": [
+      "OpenText",
+      "GCP"
+    ],
+    "services": [
+      "OpenText™ Fax2Mail",
+      "OpenText™ Content Management for SAP® SuccessFactors®"
     ]
   },
   {
     "lat": 41.4,
     "lng": -81.8,
     "label": "Brook Park, OH, US",
-    "total": 4,
+    "total": 2,
     "byCategory": {
-      "Business Network": 4
+      "Business Network": 2
     },
     "providers": [
       "OpenText"
     ],
     "services": [
-      "OpenText™ MedNX AutoPrint",
-      "OpenText™ PositivePro",
       "OpenText™ Trading Grid Translation Service (TGTS)",
-      "OpenText™ Data Integrator (BizManager)"
-    ]
-  },
-  {
-    "lat": -26.11,
-    "lng": 28.05,
-    "label": "Johannesburg, South Africa",
-    "total": 3,
-    "byCategory": {
-      "Content": 3
-    },
-    "providers": [
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions"
-    ]
-  },
-  {
-    "lat": 47.38,
-    "lng": 8.54,
-    "label": "Zurich, Switzerland",
-    "total": 3,
-    "byCategory": {
-      "Content": 3
-    },
-    "providers": [
-      "GCP"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Core Archive for SAP® Solutions"
-    ]
-  },
-  {
-    "lat": 47.8,
-    "lng": 13.04,
-    "label": "Linz, Austria",
-    "total": 3,
-    "byCategory": {
-      "Content": 1,
-      "CyberSecurity SMB": 2
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Business Communication Archive (Information Archive)",
-      "OpenText™ Secure Messaging Portal",
-      "OpenText™ Core Business Communication Archive"
-    ]
-  },
-  {
-    "lat": -6.21,
-    "lng": 106.85,
-    "label": "Jakarta, Indonesia",
-    "total": 3,
-    "byCategory": {
-      "Content": 3
-    },
-    "providers": [
-      "GCP",
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Content Management (Extended ECM)"
-    ]
-  },
-  {
-    "lat": 36.67,
-    "lng": -78.36,
-    "label": "Virginia, US",
-    "total": 3,
-    "byCategory": {
-      "Content": 2,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
-    ]
-  },
-  {
-    "lat": 22.32,
-    "lng": 114.17,
-    "label": "Hong Kong",
-    "total": 3,
-    "byCategory": {
-      "Experience": 1,
-      "Analytics, AI, and LegalTech": 1,
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
-    ]
-  },
-  {
-    "lat": 37,
-    "lng": -79,
-    "label": "Virginia, US",
-    "total": 3,
-    "byCategory": {
-      "CyberSecurity SMB": 3
-    },
-    "providers": [
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Backup for Microsoft 365 (Carbonite Backup for Microsoft 365)",
-      "OpenText™ Core Endpoint Backup (Carbonite Endpoint Protection)",
-      "OpenText™ Secure Cloud Portal"
-    ]
-  },
-  {
-    "lat": 33.3,
-    "lng": -111.84,
-    "label": "Chandler, AZ, US",
-    "total": 3,
-    "byCategory": {
-      "CyberSecurity SMB": 3
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Recover​ (Carbonite Recover​)",
-      "OpenText™ Safe Endpoint",
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)"
-    ]
-  },
-  {
-    "lat": 32.09,
-    "lng": 34.79,
-    "label": "Tel Aviv, Israel",
-    "total": 2,
-    "byCategory": {
-      "Content": 2
-    },
-    "providers": [
-      "GCP"
-    ],
-    "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Documentum™ Content Management (Documentum)"
-    ]
-  },
-  {
-    "lat": 59.33,
-    "lng": 18.07,
-    "label": "Stockholm, Sweden",
-    "total": 2,
-    "byCategory": {
-      "Content": 2
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Core Signature",
-      "OpenText™ Documentum™ Content Management (Documentum)"
-    ]
-  },
-  {
-    "lat": 3.14,
-    "lng": 101.69,
-    "label": "Kuala Lumpur, Malaysia",
-    "total": 2,
-    "byCategory": {
-      "Experience": 2
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ BMS",
-      "OpenText™ Fax2Mail"
+      "OpenText™ PositivePro"
     ]
   },
   {
@@ -1426,35 +756,67 @@
     ]
   },
   {
-    "lat": 60.17,
-    "lng": 24.94,
-    "label": "Helsinki, Finland",
+    "lat": 48.14,
+    "lng": 11.58,
+    "label": "Munich, Germany",
     "total": 2,
     "byCategory": {
-      "Business Network": 2
+      "Content": 2
     },
     "providers": [
       "OpenText"
     ],
     "services": [
-      "OpenText™ Alloy Platform",
-      "OpenText ANI"
+      "OpenText™ Core Capture Services",
+      "OpenText™ Content Management (Extended ECM) for SAP® Solutions"
     ]
   },
   {
-    "lat": 39.91,
-    "lng": 116.39,
-    "label": "Beijing, China",
+    "lat": 3.14,
+    "lng": 101.69,
+    "label": "Kuala Lumpur, Malaysia",
     "total": 2,
     "byCategory": {
-      "Business Network": 2
+      "Experience": 2
     },
     "providers": [
-      "AWS"
+      "OpenText"
     ],
     "services": [
-      "OpenText™ Supplier Portal",
-      "OpenText™ Core Secure Access (Identity and Access Management)"
+      "OpenText™ BMS",
+      "OpenText™ Fax2Mail"
+    ]
+  },
+  {
+    "lat": 47.38,
+    "lng": 8.54,
+    "label": "Zurich, Switzerland",
+    "total": 2,
+    "byCategory": {
+      "Content": 2
+    },
+    "providers": [
+      "GCP"
+    ],
+    "services": [
+      "OpenText™ Content Management (Extended ECM)",
+      "OpenText™ Core Archive for SAP® Solutions"
+    ]
+  },
+  {
+    "lat": 34.05,
+    "lng": -118.24,
+    "label": "Los Angeles, US",
+    "total": 2,
+    "byCategory": {
+      "Content": 2
+    },
+    "providers": [
+      "GCP"
+    ],
+    "services": [
+      "OpenText™ Documentum™ Content Management (Documentum)",
+      "OpenText™ Archive Center"
     ]
   },
   {
@@ -1475,234 +837,6 @@
     ]
   },
   {
-    "lat": 46.31,
-    "lng": 2.35,
-    "label": "Paris, France",
-    "total": 2,
-    "byCategory": {
-      "CyberSecurity SMB": 2
-    },
-    "providers": [
-      "Azure"
-    ],
-    "services": [
-      "OpenText™ Backup for Microsoft 365 (Carbonite Backup for Microsoft 365)",
-      "OpenText™ Core Endpoint Backup (Carbonite Endpoint Protection)"
-    ]
-  },
-  {
-    "lat": 33.75,
-    "lng": -84.39,
-    "label": "Atlanta, US",
-    "total": 2,
-    "byCategory": {
-      "CyberSecurity SMB": 2
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Email Encryption​ (Webroot™ Email Encryption powered by Zix™​)",
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)"
-    ]
-  },
-  {
-    "lat": 47.44,
-    "lng": 8.17,
-    "label": "Lupfig, Switzerland",
-    "total": 2,
-    "byCategory": {
-      "CyberSecurity SMB": 2
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)",
-      "OpenText™ Hosted Exchange"
-    ]
-  },
-  {
-    "lat": 26.21,
-    "lng": 50.59,
-    "label": "Bahrain",
-    "total": 1,
-    "byCategory": {
-      "CyberSecurity Ent": 1
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Fortify Hosted"
-    ]
-  },
-  {
-    "lat": 23.89,
-    "lng": 45.08,
-    "label": "KSA",
-    "total": 1,
-    "byCategory": {
-      "CyberSecurity Ent": 1
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Fortify Hosted"
-    ]
-  },
-  {
-    "lat": 35.86,
-    "lng": 104.2,
-    "label": "China",
-    "total": 1,
-    "byCategory": {
-      "Experience": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ BMS"
-    ]
-  },
-  {
-    "lat": 31.23,
-    "lng": 121.47,
-    "label": "Shanghai, China",
-    "total": 1,
-    "byCategory": {
-      "Experience": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ BMS"
-    ]
-  },
-  {
-    "lat": 51.05,
-    "lng": -114.08,
-    "label": "Calgary, Canada",
-    "total": 1,
-    "byCategory": {
-      "Experience": 1
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Core Fax (XM Fax)"
-    ]
-  },
-  {
-    "lat": 45.52,
-    "lng": -122.68,
-    "label": "Portland, OR, US",
-    "total": 1,
-    "byCategory": {
-      "Experience": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Fax (XM Fax)"
-    ]
-  },
-  {
-    "lat": 33.88,
-    "lng": -84.52,
-    "label": "Smyrna, GA, US",
-    "total": 1,
-    "byCategory": {
-      "Experience": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Core Fax (XM Fax)"
-    ]
-  },
-  {
-    "lat": 51.37,
-    "lng": -0.31,
-    "label": "Chessington, UK",
-    "total": 1,
-    "byCategory": {
-      "Business Network": 1
-    },
-    "providers": [
-      "OpenText"
-    ],
-    "services": [
-      "OpenText™ Alloy Platform"
-    ]
-  },
-  {
-    "lat": 45.6,
-    "lng": -121.18,
-    "label": "Oregon, US",
-    "total": 1,
-    "byCategory": {
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "GCP"
-    ],
-    "services": [
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
-    ]
-  },
-  {
-    "lat": 60.57,
-    "lng": 27.82,
-    "label": "Finland",
-    "total": 1,
-    "byCategory": {
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "GCP"
-    ],
-    "services": [
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
-    ]
-  },
-  {
-    "lat": 50.45,
-    "lng": 3.82,
-    "label": "Belgium",
-    "total": 1,
-    "byCategory": {
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "GCP"
-    ],
-    "services": [
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
-    ]
-  },
-  {
-    "lat": 34.69,
-    "lng": 135.5,
-    "label": "Osaka, Japan",
-    "total": 1,
-    "byCategory": {
-      "CyberSecurity SMB": 1
-    },
-    "providers": [
-      "AWS"
-    ],
-    "services": [
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)"
-    ]
-  },
-  {
     "lat": 41.1,
     "lng": -79.92,
     "label": "Boyers, PA, US",
@@ -1715,6 +849,36 @@
     ],
     "services": [
       "OpenText™ Server Backup ​ (Carbonite Server Backup)"
+    ]
+  },
+  {
+    "lat": 39.91,
+    "lng": 116.39,
+    "label": "Beijing, China",
+    "total": 1,
+    "byCategory": {
+      "Business Network": 1
+    },
+    "providers": [
+      "AWS"
+    ],
+    "services": [
+      "OpenText™ Core Secure Access (Identity and Access Management)"
+    ]
+  },
+  {
+    "lat": 47.8,
+    "lng": 13.04,
+    "label": "Linz, Austria",
+    "total": 1,
+    "byCategory": {
+      "CyberSecurity SMB": 1
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Core Business Communication Archive"
     ]
   },
   {
@@ -1733,9 +897,159 @@
     ]
   },
   {
-    "lat": 43.59,
-    "lng": -79.64,
-    "label": "Mississauga, Canada",
+    "lat": 34.69,
+    "lng": 135.5,
+    "label": "Osaka, Japan",
+    "total": 1,
+    "byCategory": {
+      "CyberSecurity SMB": 1
+    },
+    "providers": [
+      "AWS"
+    ],
+    "services": [
+      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)"
+    ]
+  },
+  {
+    "lat": 51.37,
+    "lng": -0.31,
+    "label": "Chessington, UK",
+    "total": 1,
+    "byCategory": {
+      "Business Network": 1
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Alloy Platform"
+    ]
+  },
+  {
+    "lat": 36.67,
+    "lng": -78.36,
+    "label": "Virginia, US",
+    "total": 1,
+    "byCategory": {
+      "Content": 1
+    },
+    "providers": [
+      "Azure"
+    ],
+    "services": [
+      "OpenText™ Information Archive (InfoArchive)"
+    ]
+  },
+  {
+    "lat": 60.17,
+    "lng": 24.94,
+    "label": "Helsinki, Finland",
+    "total": 1,
+    "byCategory": {
+      "Business Network": 1
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ Alloy Platform"
+    ]
+  },
+  {
+    "lat": 50.45,
+    "lng": 3.82,
+    "label": "Belgium",
+    "total": 1,
+    "byCategory": {
+      "CyberSecurity SMB": 1
+    },
+    "providers": [
+      "GCP"
+    ],
+    "services": [
+      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
+    ]
+  },
+  {
+    "lat": 37.36,
+    "lng": -79.38,
+    "label": "Virginia, US",
+    "total": 1,
+    "byCategory": {
+      "CyberSecurity SMB": 1
+    },
+    "providers": [
+      "Azure"
+    ],
+    "services": [
+      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
+    ]
+  },
+  {
+    "lat": 37,
+    "lng": -79,
+    "label": "Virginia, US",
+    "total": 1,
+    "byCategory": {
+      "CyberSecurity SMB": 1
+    },
+    "providers": [
+      "Azure"
+    ],
+    "services": [
+      "OpenText™ Backup for Microsoft 365 (Carbonite Backup for Microsoft 365)"
+    ]
+  },
+  {
+    "lat": 40.26,
+    "lng": -74.09,
+    "label": "Tinton Falls, NJ, US",
+    "total": 1,
+    "byCategory": {
+      "Experience": 1
+    },
+    "providers": [
+      "OpenText"
+    ],
+    "services": [
+      "OpenText™ BMS"
+    ]
+  },
+  {
+    "lat": 33.2,
+    "lng": -79.93,
+    "label": "S. Carolina, US",
+    "total": 1,
+    "byCategory": {
+      "Content": 1
+    },
+    "providers": [
+      "GCP"
+    ],
+    "services": [
+      "OpenText™ Core Capture"
+    ]
+  },
+  {
+    "lat": 22.32,
+    "lng": 114.17,
+    "label": "Hong Kong",
+    "total": 1,
+    "byCategory": {
+      "Analytics, AI, and LegalTech": 1
+    },
+    "providers": [
+      "Azure"
+    ],
+    "services": [
+      "OpenText™ Intelligence (Magellan BI & Reporting)"
+    ]
+  },
+  {
+    "lat": 33.75,
+    "lng": -84.39,
+    "label": "Atlanta, US",
     "total": 1,
     "byCategory": {
       "CyberSecurity SMB": 1
@@ -1744,7 +1058,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)"
+      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)"
     ]
   }
 ]

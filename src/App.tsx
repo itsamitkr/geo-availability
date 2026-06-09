@@ -97,8 +97,8 @@ function FilterChip({
 // ── App ───────────────────────────────────────────────────────────────────
 
 export default function App() {
-  const rows   = tableData as RowData[]
-  const points = geoData as GeoPoint[]
+  const rows   = tableData as unknown as RowData[]
+  const points = geoData  as unknown as GeoPoint[]
 
   // ── Theme ──────────────────────────────────────────────────────────────
   const [themeMode, setThemeMode] = useState<'light' | 'dark'>('light')
@@ -275,14 +275,14 @@ export default function App() {
             textTransform: 'uppercase',
             flexShrink: 0,
           }}>
-            Alpha
+            POC
           </Box>
           <Typography variant="caption" sx={{
             fontSize: '0.7rem',
             color: isDark ? 'rgba(251,191,36,0.75)' : 'rgba(120,53,15,0.8)',
             letterSpacing: '0.01em',
           }}>
-            Actively under development, not GA. Data and features are subject to change without notice.
+            Data shown is a randomly sampled, anonymised subset of the Geo Availability dataset. Account IDs, Landing Zone names, and service names have been masked.
           </Typography>
         </Box>
 
