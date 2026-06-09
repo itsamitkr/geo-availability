@@ -128,17 +128,32 @@ function maskLZ(val: string, n = 6): string {
 }
 
 /**
- * Mask a Cloud Service name after the first `n` chars.
- * OpenText™-branded services (name contains "opentext") are exempt.
+ * Mask a Cloud Service name:
+ * - If the name starts with "OpenText™" (or variant): keep the prefix, mask
+ *   the product name after the first `n` chars of it.
+ * - Otherwise: mask the whole name after the first `n` chars.
  */
 function maskService(val: string, n = 5): string {
   if (!val.trim()) return val
-  if (/opentext/i.test(val)) return val
+  const otMatch = val.match(/^(OpenText[™™]?\s+)/i)
+  if (otMatch) {
+    const prefix  = otMatch[1]                 // e.g. "OpenText™ "
+    const product = val.slice(prefix.length)   // the actual product name
+    if (product.length <= n) return val
+    return prefix + product.slice(0, n) + '****'
+  }
   if (val.length <= n) return val
   return val.slice(0, n) + '****'
 }
 
+/** Mask a city name after the first `n` chars. */
+function maskCity(val: string, n = 3): string {
+  if (!val.trim() || val.length <= n) return val
+  return val.slice(0, n) + '***'
+}
+
 function anonymise(row: RowData): RowData {
+  const isOTProvider = row['Cloud Provider'] === 'OpenText'
   return {
     ...row,
     'Account ID (Primary)':    tokenize(row['Account ID (Primary)']),
@@ -146,6 +161,9 @@ function anonymise(row: RowData): RowData {
     'Landing Zone (Primary)':  maskLZ(row['Landing Zone (Primary)']),
     'Landing Zone (Secondary)': maskLZ(row['Landing Zone (Secondary)']),
     'Cloud Service':           maskService(row['Cloud Service']),
+    // Mask city for OpenText-hosted services (data centre locations are proprietary)
+    'City (Primary)':          isOTProvider ? maskCity(row['City (Primary)'])   : row['City (Primary)'],
+    'City (Secondary)':        isOTProvider ? maskCity(row['City (Secondary)']) : row['City (Secondary)'],
   }
 }
 

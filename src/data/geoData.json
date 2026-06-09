@@ -20,37 +20,25 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Process Automation for Government (Appworks for Government)",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
-      "OpenText™ messageREACH Platform",
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)",
+      "OpenText™ Conte****",
+      "OpenText™ Core ****",
+      "OpenText™ Fax2M****",
+      "OpenText™ Proce****",
+      "OpenText™ Cloud****",
+      "OpenText™ messa****",
+      "OpenText™ Digit****",
+      "OpenText™ Docum****",
+      "OpenText™ Serve****",
       "OpenText™ Fax",
-      "OpenText™ Core Asset Management (AMX)",
       "Secur****",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Behavioral Signals (ArcSight Intelligence)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Legal Hold",
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Hosted Exchange",
+      "OpenText™ Threa****",
+      "OpenText™ Web C****",
+      "OpenText™ Behav****",
+      "OpenText™ Infor****",
+      "OpenText™ Hoste****",
       "OpenText™ BMS",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Communications (Exstream)"
+      "OpenText™ Intel****",
+      "OpenText™ Commu****"
     ]
   },
   {
@@ -74,35 +62,20 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Core Signature",
-      "OpenText™ Content Cloud for Life Sciences",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Dimensions RM",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Strategic Portfolio Management (SPM)",
-      "OpenText™ Core Adversary Signals (ArcSight cyDNA)",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Supplier Portal",
-      "OpenText™ Functional Testing Lab for Mobile and Web (UFT Digital Lab/UFT Mobile)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Identity Governance (NetIQ Identity Governance)",
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Web CMS (TeamSite)",
-      "OpenText™ Core Process Automation (Core Case Management)"
+      "OpenText™ Core ****",
+      "OpenText™ Conte****",
+      "OpenText™ Passw****",
+      "OpenText™ Fax2M****",
+      "OpenText™ Dimen****",
+      "OpenText™ Intel****",
+      "OpenText™ Strat****",
+      "OpenText™ Suppl****",
+      "OpenText™ Funct****",
+      "OpenText™ Threa****",
+      "OpenText™ Docum****",
+      "OpenText™ Ident****",
+      "OpenText™ Cloud****",
+      "OpenText™ Web C****"
     ]
   },
   {
@@ -124,25 +97,18 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Dimensions RM",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Core Identity Foundation (CIF)",
-      "OpenText™ Core Process Automation (Core Case Management)",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Identity Lifecycle Management (NetIQ Identity Lifecycle Management)",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Core Share",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
-      "OpenText™ Project and Portfolio Management",
-      "OpenText™ BMS",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)"
+      "OpenText™ Commu****",
+      "OpenText™ Infor****",
+      "OpenText™ Dimen****",
+      "OpenText™ Conte****",
+      "OpenText™ Passw****",
+      "OpenText™ Core ****",
+      "OpenText™ Ident****",
+      "OpenText™ Docum****",
+      "OpenText™ Intel****",
+      "OpenText™ Enter****",
+      "OpenText™ Proje****",
+      "OpenText™ BMS"
     ]
   },
   {
@@ -160,25 +126,13 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Archive Center",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Process Automation (AppWorks)",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core Collaboration for Engineering (Core for Supplier Exchange)",
-      "OpenText™ Core Endpoint Backup (Carbonite Endpoint Protection)",
-      "OpenText™ Core Content Management (Core Content)",
+      "OpenText™ Archi****",
+      "OpenText™ Conte****",
+      "OpenText™ Proce****",
+      "OpenText™ Core ****",
       "OpenText™ BMS",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Core Messaging",
-      "OpenText™ Core for Federated Compliance",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core for Capital Projects",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Content Management Add-On Microsoft Office Online Broker (Content Suite Platform Add-on for MS Office Online)",
-      "OpenText™ Information Archive (InfoArchive)"
+      "OpenText™ Docum****",
+      "OpenText™ Infor****"
     ]
   },
   {
@@ -198,25 +152,17 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Signature",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ AI Operations Management (Operations Bridge)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Threat Intelligence (BrightCloud Threat Intelligence)",
-      "OpenText™ Core Automation Center (Data Center Automation)",
+      "OpenText™ Core ****",
+      "OpenText™ Commu****",
+      "OpenText™ Conte****",
+      "OpenText™ AI Op****",
+      "OpenText™ Threa****",
       "OpenText™ Fax",
-      "OpenText™ Project and Portfolio Management",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Network Operations Management",
-      "OpenText™ Core Project and Portfolio Management (Project & Portfolio Management)",
-      "OpenText™ Functional Testing Lab for Mobile and Web (UFT Digital Lab/UFT Mobile)",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Contact Center Analytics (Explore)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Core Application Security (Fortify on Demand)"
+      "OpenText™ Proje****",
+      "OpenText™ Netwo****",
+      "OpenText™ Funct****",
+      "OpenText™ Conta****",
+      "OpenText™ Hight****"
     ]
   },
   {
@@ -232,23 +178,18 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Trading Grid Supplier Hub (Live Orders)",
-      "OpenText™ Document Cycle Tracking System (DCTS)",
-      "OpenText™ Output Transformation Server",
-      "OpenText™ Enterprise",
-      "OpenText™ TG Analytics",
-      "OpenText™ Application Integrator",
-      "OpenText™ Trading Grid Translation Service (TGTS) Dell Dedicated",
-      "OpenText™ Trading Grid Messaging Service (TGMS) Cardinal Dedicated",
-      "OpenText™ API Gateway",
-      "OpenText™ Trading Grid Translation Service (TGTS)",
-      "OpenText™ Data Exchange Platform (DXP)",
-      "OpenText™ Athena",
-      "OpenText™ Softshare",
-      "OpenText™ Trading Grid Insights (Lens)",
-      "OpenText™ Trading Grid e-Invoicing (Live Invoice with Compliance)",
-      "OpenText™ PCI Gateway",
-      "OpenText™ Live Documents"
+      "OpenText™ Tradi****",
+      "OpenText™ Docum****",
+      "OpenText™ Outpu****",
+      "OpenText™ Enter****",
+      "OpenText™ TG An****",
+      "OpenText™ Appli****",
+      "OpenText™ API G****",
+      "OpenText™ Data ****",
+      "OpenText™ Athen****",
+      "OpenText™ Softs****",
+      "OpenText™ PCI G****",
+      "OpenText™ Live ****"
     ]
   },
   {
@@ -269,22 +210,14 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Content Management (Core Content)",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core Capture",
+      "OpenText™ Core ****",
       "Retai****",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Cloud Ally",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core eDiscovery (Axcelerate)",
-      "OpenText™ Intelligent Classification (Magellan Text Mining)",
-      "OpenText™ Application Quality Management (ALM Quality Center)",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions",
-      "OpenText™ Core Fax (XM Fax)"
+      "OpenText™ Conte****",
+      "OpenText™ Intel****",
+      "OpenText™ Infor****",
+      "OpenText™ Cloud****",
+      "OpenText™ Appli****",
+      "OpenText™ Commu****"
     ]
   },
   {
@@ -303,18 +236,9 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Process Automation (Core Case Management)",
-      "OpenText™ Core Content Management for SAP® SuccessFactors (Core for SAP SuccessFactors)",
-      "OpenText™ Core Capture",
-      "OpenText™ Core Digital Asset Management (Media Management)",
-      "OpenText™ Core Communications (Exstream)",
-      "OpenText™ Core Capture for SAP® Solutions",
-      "OpenText™ Core Intelligence (Magellan BI & Reporting)",
-      "OpenText™ Core Journey (Core Experience Insights)",
-      "OpenText™ Information Archive (InfoArchive)"
+      "OpenText™ Conte****",
+      "OpenText™ Core ****",
+      "OpenText™ Infor****"
     ]
   },
   {
@@ -336,16 +260,14 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Exstream Cloud Native",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Application Quality Management (ALM Quality Center)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Perceptiv",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Enterprise Performance Engineering (LoadRunner Enterprise)",
-      "OpenText™ Content Management for SAP® SuccessFactors®"
+      "OpenText™ Exstr****",
+      "OpenText™ Core ****",
+      "OpenText™ Infor****",
+      "OpenText™ Perce****",
+      "OpenText™ Commu****",
+      "OpenText™ Docum****",
+      "OpenText™ Enter****",
+      "OpenText™ Conte****"
     ]
   },
   {
@@ -367,16 +289,11 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Core Application Security (Fortify on Demand)",
-      "OpenText™ Core Universal Discovery and CMDB",
+      "OpenText™ Core ****",
       "OpenText™ BMS",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)"
+      "OpenText™ Commu****",
+      "OpenText™ Infor****",
+      "OpenText™ Fax2M****"
     ]
   },
   {
@@ -397,14 +314,11 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Document Presentment for SAP Solutions Cloud Native",
-      "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Fax2Mail",
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Document Cycle Tracking System (DCTS)",
-      "OpenText™ Core Asset Management (AMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Cloud Ally"
+      "OpenText™ Docum****",
+      "OpenText™ Core ****",
+      "OpenText™ Fax2M****",
+      "OpenText™ Conte****",
+      "OpenText™ Cloud****"
     ]
   },
   {
@@ -420,14 +334,11 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Content Management (Extended ECM) for Engineering",
-      "OpenText™ Core Archive for SAP® Solutions",
-      "OpenText™ Core Capture for Salesforce",
+      "OpenText™ Digit****",
+      "OpenText™ Conte****",
+      "OpenText™ Core ****",
       "OpenText™ BMS",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Core for Capital Projects"
+      "OpenText™ Infor****"
     ]
   },
   {
@@ -442,13 +353,11 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Trusted Link Enterprise (TLE)",
-      "OpenText™ Application Integrator",
-      "OpenText™ Orchestration and Orchestrated Services",
-      "OpenText™ Document Cycle Tracking System (DCTS)",
-      "OpenText™ Trading Grid Online (TGO)",
-      "OpenText™ Trading Grid Messaging Service (TGMS)",
-      "OpenText™ Trading Grid e-Invoicing (Live Invoice with Compliance)"
+      "OpenText™ Trust****",
+      "OpenText™ Appli****",
+      "OpenText™ Orche****",
+      "OpenText™ Docum****",
+      "OpenText™ Tradi****"
     ]
   },
   {
@@ -466,13 +375,11 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Adversary Signals (ArcSight cyDNA)",
-      "OpenText™ Core Adversary Intelligence (ArcSight ThreatHub)",
+      "OpenText™ Core ****",
       "Retai****",
-      "OpenText™ Identity Governance (NetIQ Identity Governance)",
-      "OpenText™ Core Signature",
-      "OpenText™ Information Archive (InfoArchive)",
-      "OpenText™ Web CMS (TeamSite)"
+      "OpenText™ Ident****",
+      "OpenText™ Infor****",
+      "OpenText™ Web C****"
     ]
   },
   {
@@ -489,12 +396,9 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Identity Foundation (CIF)",
-      "OpenText™ Core Advanced Authentication",
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Password Management (NetIQ Password Management)",
-      "OpenText™ Credential Management Service (NetIQ Credential Management Service)",
-      "OpenText™ Core Asset Management (AMX)"
+      "OpenText™ Core ****",
+      "OpenText™ Passw****",
+      "OpenText™ Crede****"
     ]
   },
   {
@@ -512,11 +416,8 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Capture for Salesforce",
-      "OpenText™ Core Universal Discovery and CMDB",
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Asset Management (AMX)"
+      "OpenText™ Core ****",
+      "OpenText™ Conte****"
     ]
   },
   {
@@ -532,10 +433,9 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Hightail Creative Collaboration",
-      "OpenText™ Communications (Exstream)",
-      "OpenText™ Hightail File Sharing"
+      "OpenText™ Core ****",
+      "OpenText™ Hight****",
+      "OpenText™ Commu****"
     ]
   },
   {
@@ -551,10 +451,9 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Cloud Management (HCMX)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Network Operations Management",
-      "OpenText™ Information Archive (InfoArchive)"
+      "OpenText™ Core ****",
+      "OpenText™ Netwo****",
+      "OpenText™ Infor****"
     ]
   },
   {
@@ -570,9 +469,7 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Automation Center (Data Center Automation)",
-      "OpenText™ Core Service Management (SMAX)",
-      "OpenText™ Core Archive for SAP® Solutions"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -588,9 +485,7 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Data Discovery & Risk Insights (Voltage Fusion)",
-      "OpenText™ Core Web Optimization (Optimost)",
-      "OpenText™ Core Fax (XM Fax)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -608,9 +503,9 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)",
-      "OpenText™ Fortify Hosted",
-      "OpenText™ Content Management for SAP® SuccessFactors®"
+      "OpenText™ Core ****",
+      "OpenText™ Forti****",
+      "OpenText™ Conte****"
     ]
   },
   {
@@ -626,9 +521,8 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Digital Asset Management (Media Management)",
-      "OpenText™ Content Management for SAP® SuccessFactors®"
+      "OpenText™ Conte****",
+      "OpenText™ Digit****"
     ]
   },
   {
@@ -645,8 +539,8 @@
     ],
     "services": [
       "OpenText™ BMS",
-      "OpenText™ Fax2Mail",
-      "OpenText™ IBP v2 Platform"
+      "OpenText™ Fax2M****",
+      "OpenText™ IBP v****"
     ]
   },
   {
@@ -663,9 +557,9 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)",
+      "OpenText™ Core ****",
       "OpenText™ BMS",
-      "OpenText™ Content Management (Extended ECM)"
+      "OpenText™ Conte****"
     ]
   },
   {
@@ -682,8 +576,8 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Content Management for SAP® SuccessFactors®",
-      "OpenText™ Managed File Transfer"
+      "OpenText™ Conte****",
+      "OpenText™ Manag****"
     ]
   },
   {
@@ -699,8 +593,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Core Business Communication Archive",
-      "OpenText™ Core Business Communication Archive (Information Archive)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -717,8 +610,8 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Fax2Mail",
-      "OpenText™ Content Management for SAP® SuccessFactors®"
+      "OpenText™ Fax2M****",
+      "OpenText™ Conte****"
     ]
   },
   {
@@ -733,8 +626,8 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Trading Grid Translation Service (TGTS)",
-      "OpenText™ PositivePro"
+      "OpenText™ Tradi****",
+      "OpenText™ Posit****"
     ]
   },
   {
@@ -751,8 +644,7 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Core Fax (XM Fax)",
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -767,8 +659,8 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Core Capture Services",
-      "OpenText™ Content Management (Extended ECM) for SAP® Solutions"
+      "OpenText™ Core ****",
+      "OpenText™ Conte****"
     ]
   },
   {
@@ -784,7 +676,7 @@
     ],
     "services": [
       "OpenText™ BMS",
-      "OpenText™ Fax2Mail"
+      "OpenText™ Fax2M****"
     ]
   },
   {
@@ -799,8 +691,8 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Content Management (Extended ECM)",
-      "OpenText™ Core Archive for SAP® Solutions"
+      "OpenText™ Conte****",
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -815,8 +707,8 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Documentum™ Content Management (Documentum)",
-      "OpenText™ Archive Center"
+      "OpenText™ Docum****",
+      "OpenText™ Archi****"
     ]
   },
   {
@@ -832,8 +724,8 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Webspan",
-      "OpenText™ Core Business Communication Archive"
+      "OpenText™ Websp****",
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -848,7 +740,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)"
+      "OpenText™ Serve****"
     ]
   },
   {
@@ -863,7 +755,7 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Secure Access (Identity and Access Management)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -878,7 +770,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Core Business Communication Archive"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -893,7 +785,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Server Backup ​ (Carbonite Server Backup)"
+      "OpenText™ Serve****"
     ]
   },
   {
@@ -908,7 +800,7 @@
       "AWS"
     ],
     "services": [
-      "OpenText™ Core Endpoint Protection​ (Webroot Secure Anywhere-Endpoint Protection)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -923,7 +815,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Alloy Platform"
+      "OpenText™ Alloy****"
     ]
   },
   {
@@ -938,7 +830,7 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Information Archive (InfoArchive)"
+      "OpenText™ Infor****"
     ]
   },
   {
@@ -953,7 +845,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Alloy Platform"
+      "OpenText™ Alloy****"
     ]
   },
   {
@@ -968,7 +860,7 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Core DNS Protection​ (Webroot DNS Protection)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -983,7 +875,7 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Core Email Message Privacy​ (Webroot™ Email Message Privacy​)"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -998,7 +890,7 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Backup for Microsoft 365 (Carbonite Backup for Microsoft 365)"
+      "OpenText™ Backu****"
     ]
   },
   {
@@ -1028,7 +920,7 @@
       "GCP"
     ],
     "services": [
-      "OpenText™ Core Capture"
+      "OpenText™ Core ****"
     ]
   },
   {
@@ -1043,7 +935,7 @@
       "Azure"
     ],
     "services": [
-      "OpenText™ Intelligence (Magellan BI & Reporting)"
+      "OpenText™ Intel****"
     ]
   },
   {
@@ -1058,7 +950,7 @@
       "OpenText"
     ],
     "services": [
-      "OpenText™ Core Email Threat Protection​ (Webroot™ Email Threat Protection​)"
+      "OpenText™ Core ****"
     ]
   }
 ]
