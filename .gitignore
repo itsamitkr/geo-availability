@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Vite cache
+.vite/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+.idea/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Raw source data (large Excel files — not for version control)
+raw/
