@@ -136,8 +136,7 @@ function CustomToolbar({ paginationModel, onPaginationChange, totalRows }: {
 // ── Column visibility defaults ─────────────────────────────────────────────
 
 const DEFAULT_VISIBILITY: GridColumnVisibilityModel = {
-  'Data Backup Region':             false,
-  'Disaster Recovery Region':       false,
+  // Secondary deployment columns — hidden by default
   'City (Secondary)':               false,
   'State/Province (Secondary)':     false,
   'Country (Secondary)':            false,
@@ -145,8 +144,9 @@ const DEFAULT_VISIBILITY: GridColumnVisibilityModel = {
   'Account ID (Secondary)':         false,
   'Deployment Status (Secondary)':  false,
   'Target Quarter (Secondary)':     false,
-  'Account ID (Primary)':           false,
-  'Landing Zone (Primary)':         false,
+  // Infrastructure / DR — hidden by default
+  'Data Backup Region':             false,
+  'Disaster Recovery Region':       false,
 }
 
 // ── Edit modal ─────────────────────────────────────────────────────────────
